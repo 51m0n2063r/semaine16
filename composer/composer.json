@@ -1,0 +1,12 @@
+{
+    "name": "lesago/test",
+    "description": "test composer init",
+    "license": "1.à",
+    "authors": [
+        {
+            "name": "51m0n2063r",
+            "email": "simon.roger31@gmail.com"
+        }
+    ],
+    "require": {}
+}

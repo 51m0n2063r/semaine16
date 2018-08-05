@@ -1,0 +1,13 @@
+{
+    "name": "simon/php",
+    "require": {
+        "twig/twig": "2.5",
+        "fzaninotto/faker": "1.8"
+    },
+    "authors": [
+        {
+            "name": "51m0n2063r",
+            "email": "simon.roger31@gmail.com"
+        }
+    ]
+}
